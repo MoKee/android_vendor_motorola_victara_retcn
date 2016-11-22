@@ -265,7 +265,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/victara_retcn/proprietary/bin/qmi_motext_hook:system/bin/qmi_motext_hook \
     vendor/motorola/victara_retcn/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/motorola/victara_retcn/proprietary/bin/radish:system/bin/radish \
-    vendor/motorola/victara_retcn/proprietary/bin/rild:system/bin/rild \
     vendor/motorola/victara_retcn/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/motorola/victara_retcn/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/motorola/victara_retcn/proprietary/lib/libadropbox.so:system/lib/libadropbox.so \
@@ -273,7 +272,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/victara_retcn/proprietary/lib/libmdmdetect.so:system/lib/libmdmdetect.so \
     vendor/motorola/victara_retcn/proprietary/lib/libmotext_inf.so:system/lib/libmotext_inf.so \
     vendor/motorola/victara_retcn/proprietary/lib/libqmimotext.so:system/lib/libqmimotext.so \
-    vendor/motorola/victara_retcn/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/motorola/victara_retcn/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/motorola/victara_retcn/proprietary/vendor/lib/libcneapiclient.so:system/vendor/lib/libcneapiclient.so \
     vendor/motorola/victara_retcn/proprietary/vendor/lib/libsystem_health_mon.so:system/vendor/lib/libsystem_health_mon.so \
